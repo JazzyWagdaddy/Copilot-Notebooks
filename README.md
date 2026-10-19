@@ -59,7 +59,7 @@ The same notebook can be opened from either experience.
 
 - A Microsoft account that can access Copilot Notebooks.
 - A SharePoint or OneDrive service plan to create notebooks.
-- Access to the Microsoft Copilot app at [m365.cloud.microsoft](https://m365.cloud.microsoft).
+- Access to the Microsoft Copilot app from your desktop.
 - The two sample files in this repository:
   - [`lab-files/project-brief.md`](lab-files/project-brief.md)
   - [`lab-files/customer-feedback.md`](lab-files/customer-feedback.md)
