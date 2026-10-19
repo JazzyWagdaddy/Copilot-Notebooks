@@ -110,14 +110,14 @@ A notebook is most useful when it is organized around a defined project, task, d
 
 ---
 
-## 2:00–5:00 — Task 2: Add and manage references
+## Task 2: Add and manage references
 
 ### Steps
 
-1. Download or clone this repository.
-2. In your notebook, select **Add references**.
+1. In your notebook, select **Add references**.
+2. Throughout this lab, you craft prompts that reference these files. Download both files and save them to your OneDrive folder before you continue.
 3. Upload:
-   - `project-brief.md`
+   - `(https://go.microsoft.com/fwlink/?linkid=2269126)`
    - `customer-feedback.md`
 4. Confirm that both files appear in the notebook's references.
 5. Open or preview each reference if your experience supports it.
