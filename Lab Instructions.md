@@ -87,7 +87,7 @@ You are joining the fictional **Northwind Trail** team. The team is preparing fo
 
 ### Steps
 
-1. Sign in to the Microsoft Copilot app on your desktop.
+1. Ensure that you have downloaded the required files, then sign in to the Microsoft Copilot app on your desktop.
 2. In the left navigation, open **Notebooks**.
    - If you do not see it, check the app launcher.
 3. Select **All notebooks**, and then select **New notebook**.
