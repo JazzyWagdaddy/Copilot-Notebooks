@@ -119,21 +119,20 @@ A notebook is most useful when it is organized around a defined project, task, d
 2. Throughout this lab, you craft prompts that reference these files. 
 3. Choose **Upload** and upload these files:
    
-   **Promotion Plan for Chai Tea in Latin America**
+   *Promotion Plan for Chai Tea in Latin America*
    
-   **Market Analysis Report for Mystic Spice Premium Chai Tea**
+   *Market Analysis Report for Mystic Spice Premium Chai Tea*
    
-5. Confirm that both files appear in the notebook's references.
-7. Open or preview each reference if your experience supports it.
+5. Confirm that both files ap
 
 ### Explore other reference methods
 
-Open **Add references** or **Add content** again and identify which options are available to you:
+Open **Add references** or **Add content** again and review the additional  are available to you:
 
-- Work Content
-- Upload
-- Links
-- OneDrive
+- *Work Content* - this launches the Object Picker you saw in earlier labs where you can reference work files, meetings, emails, SharePoint sites, and Team Chats.
+- *Upload* - upload files from your local or network drives
+- *Links* - Add links to websites as content
+- *OneDrive* - Provide a link to a OneDrive folder or individual files from your Most Recently Used (MRU) list from OneDrive
 
 ***Do not add confidential or unrelated material just to complete the exercise.***
 
