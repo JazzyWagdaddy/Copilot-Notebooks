@@ -109,7 +109,9 @@ A notebook is most useful when it is organized around a defined project, task, d
 
 ---
 
-## Task 2: Add and manage references
+## Task 2: Add and manage references/content
+
+***Please note that in some UI version files you add are called REFERENCES and in other versions they are called CONTENT.  Both are the same***
 
 ### Steps
 
