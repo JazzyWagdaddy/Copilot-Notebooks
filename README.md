@@ -42,6 +42,8 @@ Ask grounded questions
 Refine with follow-up prompts and instructions
         ↓
 Create and collaborate on useful outputs
+        ↓
+Come back to the workspace to continue future work on the same content and pickup right where you left off
 ```
 
 Copilot Notebooks is available in two connected experiences:
@@ -60,9 +62,13 @@ The same notebook can be opened from either experience.
 - A Microsoft account that can access Copilot Notebooks.
 - A SharePoint or OneDrive service plan to create notebooks.
 - Access to the Microsoft Copilot app from your desktop.
-- The two sample files in this repository:
-  - [`lab-files/project-brief.md`](lab-files/project-brief.md)
-  - [`lab-files/customer-feedback.md`](lab-files/customer-feedback.md)
+- Two sample files :
+  
+  [Promotion Plan for Chai Tea in Latin America](https://go.microsoft.com/fwlink/?linkid=2269126)
+  
+  [Market Analysis Report for Mystic Spice Premium Chai Tea](https://go.microsoft.com/fwlink/?linkid=2268826)
+
+  **Download both files and save them to your OneDrive folder before you continue.**
 
 ### Feature availability
 
@@ -80,7 +86,7 @@ Copilot Notebook capabilities vary by account, license, organization policy, pla
 
 # The 20-minute lab
 
-## 0:00–2:00 — Task 1: Create your first notebook
+## Task 1: Create your first notebook
 
 ### Scenario
 
@@ -115,14 +121,16 @@ A notebook is most useful when it is organized around a defined project, task, d
 ### Steps
 
 1. In your notebook, select **Add references**.
-2. Throughout this lab, you craft prompts that reference these files. Download both files and save them to your OneDrive folder before you continue.
-3. Upload:
-   - `(https://go.microsoft.com/fwlink/?linkid=2269126)`
-   - `customer-feedback.md`
-4. Confirm that both files appear in the notebook's references.
-5. Open or preview each reference if your experience supports it.
+2. Throughout this lab, you craft prompts that reference these files. 
+3. Upload these files:
+   
+           Promotion Plan for Chai Tea in Latin America
+           Market Analysis Report for Mystic Spice Premium Chai Tea
+   
+5.  Confirm that both files appear in the notebook's references.
+7. Open or preview each reference if your experience supports it.
 
-### Optional: explore other reference methods
+### Explore other reference methods
 
 Open **Add references** again and identify which options are available to you:
 
@@ -134,7 +142,7 @@ Open **Add references** again and identify which options are available to you:
 - Drag and drop a file
 - Add an email or meeting, depending on license
 
-Do not add confidential or unrelated material just to complete the exercise.
+***Do not add confidential or unrelated material just to complete the exercise.***
 
 ### Key concept: the reference boundary
 
@@ -146,7 +154,7 @@ Your notebook should show **two references**.
 
 ---
 
-## 5:00–9:00 — Task 3: Ask grounded questions
+## Task 3: Ask grounded questions
 
 Paste the following prompt:
 
