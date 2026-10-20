@@ -1,6 +1,6 @@
 # Microsoft Copilot Notebooks
 
-> A hands-on beginner lab for learning the complete core workflow: create a notebook, add trusted references, ask grounded questions, shape responses with instructions, create useful outputs, and understand sharing, limits, and advanced features.
+> A hands-on lab for learning the complete core workflow: create a notebook, add trusted references, ask grounded questions, shape responses with instructions, create useful outputs, and understand sharing, limits, and advanced features.
 
 ## Lab at a glance
 
@@ -117,8 +117,8 @@ A notebook is most useful when it is organized around a defined project, task, d
 2. Throughout this lab, you craft prompts that reference these files. 
 3. Upload these files from your Downloads folder:
    
-           Promotion Plan for Chai Tea in Latin America
-           Market Analysis Report for Mystic Spice Premium Chai Tea
+   Promotion Plan for Chai Tea in Latin America
+   Market Analysis Report for Mystic Spice Premium Chai Tea
    
 5.  Confirm that both files appear in the notebook's references.
 7. Open or preview each reference if your experience supports it.
@@ -148,19 +148,19 @@ Your notebook should show **two references**.
 
 Paste the following prompt in the Chat window:
 
-```text
+```
 Using only the references in this notebook, summarize the materials in five bullets. Include the target users, goal, proposed timing, success measures, and the most important customer concern. After each bullet, identify which reference supports it.
 ```
 
 Copilot will use only the document sin the Notebook as the source and provide a  the response, then ask:
 
-```text
+```
 Which requested details are missing, unclear, or conflicting across the references? Do not guess. Create a table with the columns Detail, What the references say, Gap or conflict, and Recommended follow-up question.
 ```
 
 Finally, ask:
 
-```text
+```
 What evidence in the notebook supports the recommendation to prioritize offline route access? Quote only short phrases and explain how each phrase supports the recommendation.
 ```
 
@@ -186,7 +186,7 @@ Apply [quality rule].
 
 Example:
 
-```text
+```
 Using only this notebook, compare the proposed pilot with the customer feedback. Use a table with Alignment, Tension, and Open question columns. Do not fill missing details with assumptions.
 ```
 
@@ -202,14 +202,14 @@ Notebook instructions let you define response preferences that should apply thro
 2. Select **Instructions**.
 4.  Enter:
 
-   ```text
+   ```
    Write for a project manager who is new to the initiative. Use plain language, short sections, and concise tables. Separate confirmed facts from assumptions and open questions. Never invent a date, owner, budget, or metric that is not present in the references.
    ```
 
 5. Save the instructions.
 6. Re-run this shorter prompt:
 
-   ```text
+   ```
    Give me a launch-readiness assessment.
    ```
 
