@@ -96,7 +96,7 @@ You are joining the fictional **Northwind Trail** team. The team is preparing fo
    Northwind Trail Launch Lab
    ```
 
-6. Notice the options to add content or previous chats to this Notebook.  When ready, click **Create**.
+6. Notice the options to add content or previous chats to this Notebook.  You'll work with these later.  When ready, click **Create**.
 7. Keep the notebook open for the rest of the lab.
 
 ### Check your work
@@ -148,7 +148,7 @@ Your notebook should show **two references**.
 
 ## Task 3: Ask grounded questions
 
-Paste the following prompt in the Chat window:
+Paste and run the following prompt in the Chat window:
 
 ```
 
