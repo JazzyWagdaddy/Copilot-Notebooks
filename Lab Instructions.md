@@ -86,7 +86,7 @@ You are joining the fictional **Northwind Trail** team. The team is preparing fo
 2. In the left navigation, open **Notebooks**.
    - If you do not see it, check the app launcher.
 3. Select **All notebooks**, and then select **New notebook**.
-4. Name it and copying and pasting this text:
+4. Name the Notebook by copying and pasting this text:
    ```text
    Northwind Trail Launch Lab
    ```
