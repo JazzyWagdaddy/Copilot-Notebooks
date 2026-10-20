@@ -46,13 +46,6 @@ Create and collaborate on useful outputs
 Come back to the workspace to continue future work on the same content and pickup right where you left off
 ```
 
-Copilot Notebooks is available in two connected experiences:
-
-- **Microsoft Copilot app:** a lightweight notebook experience.
-- **OneNote:** a fuller workspace with features such as the generated Overview page and, depending on availability, quick-create experiences.
-
-The same notebook can be opened from either experience.
-
 ---
 
 ## Before you begin
@@ -84,28 +77,27 @@ Copilot Notebook capabilities vary by account, license, organization policy, pla
 
 ---
 
-# The 20-minute lab
+# Lab Time!
 
-## Task 1: Create your first notebook
+## Task 1: Create your first Notebook
 
 ### Scenario
 
-You are joining the fictional **Northwind Trail** team. The team is preparing a pilot for a mobile route-planning experience. You need to understand the project quickly and prepare a concise status update.
+You are joining the fictional **Northwind Trail** team. The team is preparing for expansion into Latin america. You need to understand the project quickly and prepare a concise status update.
 
 ### Steps
 
-1. Sign in to the Microsoft Copilot app.
+1. Sign in to the Microsoft Copilot app on your desktop.
 2. In the left navigation, open **Notebooks**.
    - If you do not see it, check the app launcher.
 3. Select **All notebooks**, and then select **New notebook**.
 4. Name it and copying and pasting this text:
-
    ```text
    Northwind Trail Launch Lab
    ```
 
-5. Click **Create**.
-6. Keep the notebook open for the rest of the lab.
+6. Click **Create**.
+7. Keep the notebook open for the rest of the lab.
 
 ### Check your work
 
