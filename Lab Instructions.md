@@ -123,11 +123,11 @@ A notebook is most useful when it is organized around a defined project, task, d
    
    *Market Analysis Report for Mystic Spice Premium Chai Tea*
    
-5. Confirm that both files ap
+5. Confirm that both files appear in the content/references section of your Notebook.
 
-### Explore other reference methods
+### Explore other reference/content methods
 
-Open **Add references** or **Add content** again and review the additional  are available to you:
+Open **Add references** or **Add content** again and review the additional options available to you:
 
 - *Work Content* - this launches the Object Picker you saw in earlier labs where you can reference work files, meetings, emails, SharePoint sites, and Team Chats.
 - *Upload* - upload files from your local or network drives
@@ -271,21 +271,9 @@ Your update should contain all five requested sections and clearly expose inform
    - Does the recipient have the license needed for premium reference types?
    - Is edit access appropriate?
 
-### Reference cleanup
-
-Feel free to delete the sample Notebook, but you can also keep the Notebook handy as a reference point after the class.
-
-To remove the Notebook:
-
-1. Hover over name of the Notebook and click the down-arrow.
-2. Choose **Remove** or **Delete** depending on your UI version.
-4. Click **Delete** to remote the Notebook or cancel if you want to keep the Notebook handy as a reference point after the class.
-
-***Removing or deleting the notebook does not delete any content you added.***  
-
 ## Your Final Task: Create a Real Notebook   
 
-Repeat these steps and create a Notebook that is specific to you, your role, and what you do on a regualr basis.
+Repeat these steps and create a Notebook that is specific to you, your role, and what you do on a regualr basis.  Add a folder from OneDrive or a website
 
 ## Challenge exercises
 
