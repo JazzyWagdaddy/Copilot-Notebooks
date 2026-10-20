@@ -109,9 +109,9 @@ A notebook is most useful when it is organized around a defined project, task, d
 
 ---
 
-## Task 2: Add and manage references/content
+## Task 2: Add references/content
 
-***Please note that in some UI version files you add are called REFERENCES and in other versions they are called CONTENT.  Both are the same***
+***Please note that in some UI versions, resources that you add are called REFERENCES and in other versions they are called CONTENT.  Both are the same.***
 
 ### Steps
 
@@ -148,7 +148,7 @@ Your notebook should show **two references**.
 
 ## Task 3: Ask grounded questions
 
-Paste and run the following prompt in the Chat window:
+Paste and run the following prompt in the Chat window, then review the response in detail.
 
 ```
 
@@ -158,7 +158,7 @@ After each bullet, identify which reference supports it.
 
 ```
 
-Since Copilot will use only the documents in the Notebook as the source and provide a response, ask the following:
+Since Copilot will use only the documents in the Notebook as the source and provide a response, ask the following, then review the response in detail:
 
 ```
 Which requested details are missing, unclear, or conflicting across the references?
@@ -195,14 +195,16 @@ Apply [quality rule].
 Example:
 
 ```
-Using only this notebook, compare the proposed pilot with the customer feedback. Use a table with Alignment, Tension, and Open question columns. Do not fill missing details with assumptions.
+Using only this notebook, compare the proposed pilot with the customer feedback.
+Use a table with Alignment, Tension, and Open question columns.
+Do not fill missing details with assumptions.
 ```
 
 ---
 
 ## Task 4: Set notebook instructions
 
-Notebook instructions let you define response preferences that should apply throughout the notebook.
+Notebook instructions let you define response preferences that should apply throughout the Notebook, and will not apply to anything outside the Notebook.
 
 ### Steps
 
@@ -211,7 +213,10 @@ Notebook instructions let you define response preferences that should apply thro
 4.  Enter:
 
    ```
-   Write for a project manager who is new to the initiative. Use plain language, short sections, and concise tables. Separate confirmed facts from assumptions and open questions. Never invent a date, owner, budget, or metric that is not present in the references.
+   Write for a project manager who is new to the initiative.
+Use plain language, short sections, and concise tables.
+Separate confirmed facts from assumptions and open questions.
+Never invent a date, owner, budget, or metric that is not present in the references.
    ```
 
 5. Save the instructions.
@@ -238,7 +243,7 @@ Use **notebook instructions** for durable behavior within the Notebook such as a
 
 ## Task 5: Create a useful deliverable
 
-Start a new chat (the plus button near the top) and paste:
+1. Start a new chat (the plus button near the top), then paste and run the following prompt, and respond to any follow-up questions that Copilot may have:
 
 ```
 Create a project update titled "Northwind Trail Pilot — Readiness Update."
@@ -252,6 +257,7 @@ Include:
 
 Use only this notebook's references. Label any unsupported information as "Not found in references."
 ```
+2. Review the reponse Copilot provided, noting this prompt may take a few minutes to execute and receive a response.
 
 ### Check your work
 
@@ -259,22 +265,21 @@ Your update should contain all five requested sections and clearly expose inform
 
 ---
 
-## Task 6: Share safely and finish
+## Task 6: Share your Notebook
 
 ### Sharing inspection
 
 1. Close any windows from previous tasks and then open a new chat (this keeps the screen less cluttered).  Select **Share** or **Add Members** depending on your UI version.
-2. Review the invite experience, and only send an invitation to an approved lab partner or friend.  Do not share this broadly across the company or to any specific groups
-3. Before sharing, answer:
+2. Review the invite experience and only send an invitation to an approved lab partner or friend.  Do not share this broadly across the company or to any specific groups.  It's only a lab!
+3. Before sharing, think about the following:
    - Do I have permission to share every referenced file?
    - Should the people I invite have access to this content?  Do they already have access to this content today?
    - Could sharing the notebook grant or request access to linked content?
-   - Does the recipient have the license needed for premium reference types?
    - Is edit access appropriate?
 
 ## Your Final Task: Create a Real Notebook   
 
-Repeat these steps and create a Notebook that is specific to you, your role, and what you do on a regualr basis.  Add a folder from OneDrive or a website
+Now that you have direct experience with Notebooks, it's time to create something real.  Repeat these steps you just complete but create a Notebook that is specific to you, your role, and what you do on a regualr basis.  Feel free to add a folder from OneDrive or a website that you use as part of your task or work flow.
 
 ## Challenge exercises
 
@@ -295,19 +300,12 @@ Temporarily remove one of the files then ask a previous prompt. Compare the resu
 Change the notebook instructions to:
 
 ```text
-Write for an executive audience. Lead with the decision required, limit responses to 150 words unless asked otherwise, and highlight risks in a table.
+Write for an executive audience.
+Lead with the decision required, limit responses to 150 words unless asked otherwise, and highlight risks in a table.
 ```
 
-Re-run the prompt and compare the output.
+Re-run your previous prompts and compare the output.
 
-## Challenge 4 — Build a reusable prompt
+##End of Lab
 
-Adapt this template to your own project:
-
-```text
-Using only this notebook, create a [deliverable] for [audience].
-Include [required sections].
-Use [format and length].
-Distinguish confirmed facts, assumptions, conflicts, and missing information.
-For each recommendation, explain which references support it.
-```
+Congrats on learning more about Notebooks!
