@@ -19,9 +19,7 @@ By the end of the lab, you will be able to:
 3. Add, inspect, and remove references.
 4. Ask questions that are grounded in notebook content.
 5. Improve results with follow-up prompts and notebook instructions.
-6. Create a reusable project update from the references.
-7. Recognize sharing and permission implications.
-8. Identify advanced features, licensing differences, and current limitations.
+6. Recognize sharing and permission implications.
 
 ## The mental model
 
