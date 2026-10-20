@@ -96,7 +96,7 @@ You are joining the fictional **Northwind Trail** team. The team is preparing fo
    Northwind Trail Launch Lab
    ```
 
-6. Click **Create**.
+6. Notice the options to add content or previous chats to this Notebook.  When ready, click **Create**.
 7. Keep the notebook open for the rest of the lab.
 
 ### Check your work
@@ -113,14 +113,14 @@ A notebook is most useful when it is organized around a defined project, task, d
 
 ### Steps
 
-1. In your notebook, on the right-hand side of the screen, select the plus symbol next to **In Northwind Trail Launch Lab** and then **Add content**.  Please note that your UI may say **Add references**.
+1. In your notebook, on the right-hand side of the screen, select the plus symbol next to **In Northwind Trail Launch Lab** and then choose **Add content**.  Please note that your UI may say **Add references**.
 2. Throughout this lab, you craft prompts that reference these files. 
-3. Upload these files from your Downloads folder:
+3. Choose **Upload** and upload these files:
    
    Promotion Plan for Chai Tea in Latin America
    Market Analysis Report for Mystic Spice Premium Chai Tea
    
-5.  Confirm that both files appear in the notebook's references.
+5. Confirm that both files appear in the notebook's references.
 7. Open or preview each reference if your experience supports it.
 
 ### Explore other reference methods
