@@ -1,4 +1,4 @@
-# Microsoft Copilot Notebooks in 20 Minutes
+# Microsoft Copilot Notebooks
 
 > A hands-on beginner lab for learning the complete core workflow: create a notebook, add trusted references, ask grounded questions, shape responses with instructions, create useful outputs, and understand sharing, limits, and advanced features.
 
@@ -7,7 +7,7 @@
 | Item | Details |
 |---|---|
 | Audience | New Copilot Notebooks learners |
-| Duration | 20 minutes |
+| Duration | 30 minutes |
 | Format | Self-paced, hands-on |
 | Difficulty | Beginner |
 | Product | Microsoft Copilot Notebooks |
