@@ -273,6 +273,17 @@ Your update should contain all five requested sections and clearly expose inform
    - Should the people I invite have access to this content?  Do they already have access to this content today?
    - Could sharing the notebook grant or request access to linked content?
    - Is edit access appropriate?
+  
+## Task 7: Add previous chats to Notebooks
+
+You started off by brainstorming in Chat, awesome.  Some good ideas came up there, and now it's time to bring them into your Notebook so they become part of your content or references.  A good reason to add a Copilot Chat conversation to a Copilot Notebook is to turn useful discussions (chats) into persistent project context that you can continue building on.  This allows you to preserve and build on your ideas, rather than starting from scratch.
+
+Simple takeaway: Chat = conversation. Notebook = ongoing workspace and context.
+
+1. On the upper left-hand side of your screen, click the button to expand your Sidebar.
+2. Look towards the bottom left of the Sidebar and notice your Chat history.
+3. Hover over (don't click on) any previous Chat, and then click on the three button elipsys.  Choose **Move to Notebook**, then select the Northwind Traders Launch Lab Notebook that you've been working on.
+4. Open the Northwind Traders Launch Lab Notebook and scroll down to your chat history.  The chat you just added now appears and is part of this Notebook.
 
 ## Your Final Task: Create a Real Notebook   
 
