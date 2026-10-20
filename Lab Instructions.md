@@ -83,7 +83,7 @@ Copilot Notebook capabilities vary by account, license, organization policy, pla
 
 ### Scenario
 
-You are joining the fictional **Northwind Trail** team. The team is preparing for expansion into Latin america. You need to understand the project quickly and prepare a concise status update.
+You are joining the fictional **Northwind Trail** team. The team is preparing for expansion into Latin America. You need to understand the project quickly and prepare a concise status update.
 
 ### Steps
 
