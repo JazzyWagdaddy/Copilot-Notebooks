@@ -168,7 +168,8 @@ Do not guess. Create a table with the columns Detail, What the references say, G
 Finally, ask:
 
 ```
-What evidence in the notebook supports the recommendation to prioritize offline route access? Quote only short phrases and explain how each phrase supports the recommendation.
+What evidence in the notebook supports the recommendation to prioritize offline route access?
+Quote only short phrases and explain how each phrase supports the recommendation.
 ```
 
 ### Observe
