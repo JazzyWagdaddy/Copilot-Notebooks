@@ -7,10 +7,7 @@
 | Item | Details |
 |---|---|
 | Audience | New Copilot Notebooks learners |
-| Duration | 30 minutes, plus additional challenges |
-| Format | Self-paced, hands-on |
-| Difficulty | Beginner |
-| Product | Microsoft Copilot Notebooks |
+| Duration | 30 minutes, plus additional self-paced challenges |
 | Outcome | A working notebook that answers questions and creates content from a curated set of references |
 
 ## What you will learn
