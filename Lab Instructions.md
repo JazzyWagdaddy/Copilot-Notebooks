@@ -117,8 +117,9 @@ A notebook is most useful when it is organized around a defined project, task, d
 2. Throughout this lab, you craft prompts that reference these files. 
 3. Choose **Upload** and upload these files:
    
-   Promotion Plan for Chai Tea in Latin America
-   Market Analysis Report for Mystic Spice Premium Chai Tea
+   **Promotion Plan for Chai Tea in Latin America**
+   
+   **Market Analysis Report for Mystic Spice Premium Chai Tea**
    
 5. Confirm that both files appear in the notebook's references.
 7. Open or preview each reference if your experience supports it.
@@ -149,13 +150,18 @@ Your notebook should show **two references**.
 Paste the following prompt in the Chat window:
 
 ```
-Using only the references in this notebook, summarize the materials in five bullets. Include the target users, goal, proposed timing, success measures, and the most important customer concern. After each bullet, identify which reference supports it.
+
+Using only the references in this notebook, summarize the materials in five bullets.
+Include the target users, goal, proposed timing, success measures, and the most important customer concern.
+After each bullet, identify which reference supports it.
+
 ```
 
-Copilot will use only the document sin the Notebook as the source and provide a  the response, then ask:
+Since Copilot will use only the documents in the Notebook as the source and provide a response, ask the following:
 
 ```
-Which requested details are missing, unclear, or conflicting across the references? Do not guess. Create a table with the columns Detail, What the references say, Gap or conflict, and Recommended follow-up question.
+Which requested details are missing, unclear, or conflicting across the references?
+Do not guess. Create a table with the columns Detail, What the references say, Gap or conflict, and Recommended follow-up question.
 ```
 
 Finally, ask:
