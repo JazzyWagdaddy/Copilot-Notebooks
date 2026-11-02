@@ -1,8 +1,10 @@
-# Microsoft Copilot Notebooks
+# Microsoft Copilot Notebooks/Workspaces
 
 > A hands-on lab for learning the complete core workflow: create a notebook, add trusted references, ask grounded questions, shape responses with instructions, create useful outputs, and understand sharing, limits, and advanced features.
 
 ## Lab at a glance
+
+> Microsoft states the Copilot app still calls them Notebooks (OneNote unchanged), and “workspace” is just the new project-hub redesign rolling out mid-2026.
 
 | Item | Details |
 |---|---|
