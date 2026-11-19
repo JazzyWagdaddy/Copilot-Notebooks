@@ -1,49 +1,21 @@
-# Microsoft Copilot Notebooks/Workspaces
+# Microsoft Copilot Notebooks, Workspaces, and soon to be Projects
 
 > A hands-on lab for learning the complete core workflow: create a notebook, add trusted references, ask grounded questions, shape responses with instructions, create useful outputs, and understand sharing, limits, and advanced features.
 
-## Lab at a glance
-
-> Microsoft states the Copilot app still calls them Notebooks (OneNote unchanged), and “workspace” is just the new project-hub redesign rolling out mid-2026.
-
-| Item | Details |
-|---|---|
-| Audience | New Copilot Notebooks learners |
-| Duration | 30 minutes, plus additional self-paced challenges |
-| Outcome | A working notebook that answers questions and creates content from a curated set of references |
+> [!IMPORTANT]
+> Microsoft is continuously evolving this technology, so you will need to take a follow-on session once Projects are released into your Copilot environment.
 
 ## What you will learn
 
 By the end of the lab, you will be able to:
 
-1. Explain what a Copilot Notebook is and when to use one.
+1. Explain what a Copilot Notebook and Workspace is and when to use one.
 2. Create and name a notebook.
 3. Add, inspect, and remove references.
 4. Ask questions that are grounded in notebook content.
 5. Improve results with follow-up prompts and notebook instructions.
 6. Recognize sharing and permission implications.
 
-## The mental model
-
-A Copilot Notebook is a **scoped AI workspace**. You choose the references, and Copilot uses that curated context to answer questions, summarize, analyze, and draft content.
-
-Think of the workflow as:
-
-```text
-Create a notebook
-        ↓
-Add trusted references
-        ↓
-Ask grounded questions
-        ↓
-Refine with follow-up prompts and instructions
-        ↓
-Create and collaborate on useful outputs
-        ↓
-Come back to the workspace to continue future work on the same content and pickup right where you left off
-```
-
----
 
 ## Before you begin
 
@@ -59,10 +31,6 @@ Come back to the workspace to continue future work on the same content and picku
   [Market Analysis Report for Mystic Spice Premium Chai Tea](https://go.microsoft.com/fwlink/?linkid=2268826)
 
   **Download both files and save them to your OneDrive folder before you continue.**
-
-### Feature availability
-
-Copilot Notebook capabilities vary by account, license, organization policy, platform, and rollout status. If a button used in an optional exercise is unavailable, read the exercise and continue. The core create → reference → prompt workflow should remain the focus.
 
 ### Responsible-use reminder
 
